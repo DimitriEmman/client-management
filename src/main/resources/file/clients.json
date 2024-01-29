@@ -1,0 +1,53 @@
+{
+  "persons": [
+    {
+      "firstname": "Zous",
+      "lastname": "Adrien",
+      "age": 25,
+      "profession": "informaticien",
+      "salary": 35
+    },
+    {
+      "firstname": "Joy",
+      "lastname": "Bruno",
+      "age": 29,
+      "profession": "comptable",
+      "salary": 33
+    },
+    {
+      "firstname": "Basr",
+      "lastname": "Julien",
+      "age": 43,
+      "profession": "policier",
+      "salary": 24
+    },
+    {
+      "firstname": "Bouaz",
+      "lastname": "Teff",
+      "age": 52,
+      "profession": "boulanger",
+      "salary": 45
+    },
+    {
+      "firstname": "Leroy",
+      "lastname": "Ben",
+      "age": 48,
+      "profession": "comptable",
+      "salary": 26
+    },
+    {
+      "firstname": "Beroy",
+      "lastname": "Celine",
+      "age": 28,
+      "profession": "comptable",
+      "salary": 37
+    },
+    {
+      "firstname": "Ducroc",
+      "lastname": "Mathilde",
+      "age": 32,
+      "profession": "informaticien",
+      "salary": 38
+    }
+  ]
+}
