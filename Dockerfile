@@ -1,6 +1,6 @@
 FROM openjdk:17
 WORKDIR /app
-COPY target/test-agitex-1.0-SNAPSHOT.jar app.jar
+COPY target/client-management-1.0-SNAPSHOT.jar app.jar
 EXPOSE 8282
 CMD ["java", "-jar", "app.jar"]
 
