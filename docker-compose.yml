@@ -1,7 +1,7 @@
 version: '3'
 services:
   app:
-    image: test-agitext-image
+    image: clientmanagement-image
     ports:
       - "8282:8282"
     networks:
@@ -11,7 +11,7 @@ services:
     depends_on:
       - db
   db:
-    image: test-agitext-image
+    image: clientmanagement-image
     ports:
       - "3306:3307"
     networks:
